@@ -1,6 +1,6 @@
 # Hi there, I'm Kyle Key 👋
 
-I am an aspiring Cybersecurity professional specializing in **Network Security, Incident Response (DFIR), and Threat Detection**. I've built a secure virtual home lab and analyzed digital evidence to reconstruct cyber attacks.
+I am an aspiring Cybersecurity professional specializing in **Network Security, Incident Response (DFIR), and Threat Detection**. I've built a secure virtual home lab and analyzed digital evidence to reconstruct cyber attacks. I am currently looking for an IT help desk or a SOC role, with a goal of eventually moving into GRC. I have a Cybersecurity BAS degree, a Philosophy BA, and CompTIA Security+, Network+, and A+ certifications. I am studying for the CySA+ exam in my spare time.
 
 ---
 
