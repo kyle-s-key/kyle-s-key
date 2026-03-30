@@ -35,7 +35,7 @@ I am currently looking for an IT help desk or a SOC role, with my eventual goal 
 ---
 
 ## 📫 Let's Connect
-<!-- * **LinkedIn:** [Your LinkedIn URL](link-to-linkedin) -->
+* **LinkedIn:** [linkedin.com/in/kyle-s-key/](https://www.linkedin.com/in/kyle-s-key/)
 * **Email:** kyle.s.key@gmail.com
 
 <!--
